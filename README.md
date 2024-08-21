@@ -26,4 +26,5 @@
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/JonathanTeixeira09/sistema-gestao-financeira.git
+   git clone https://github.com/JonathanTeixeira09/Sistema-Financeiro-para-Contabilidade.git
+
